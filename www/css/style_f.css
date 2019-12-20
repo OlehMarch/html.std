@@ -1,0 +1,42 @@
+#wrapper {
+width:1000px;
+outline:1px solid #cccccc;
+padding:10px;
+margin:0 auto;
+}
+
+#header {
+height:80px;
+background-color:#f8ac18;
+margin-bottom:12px;
+}
+
+#sidebarL {
+background-color:#ebebeb;
+margin-bottom:12px;
+width:150px;
+float:left;
+}
+
+#sidebarR {
+background-color:#ebebeb;
+margin-bottom:12px;
+width:150px;
+float:right;
+}
+
+#content {
+background-color:#c5161d;
+width:680px;
+margin:12px auto;
+}
+
+#footer {
+height:80px;
+background-color:#111111;
+margin-bottom:0px;
+}
+
+.clear {
+clear:both;
+}

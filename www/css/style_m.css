@@ -1,0 +1,33 @@
+body {
+background-color:#d2d2d2;
+font:11px Verdana;
+color:#696969;
+}
+
+#wrapper {
+margin:30px auto;
+background-color:#f4f4f4;
+height:520px;
+min-width:1000px;
+max-width:1500px;
+}
+
+#sidebarL {
+width:200px;
+height:500px;
+float:left;
+outline:1px solid #cc0000;
+}
+
+#sidebarR {
+width:200px;
+height:500px;
+float:right;
+outline:1px solid #cc0000;
+}
+
+#content {
+outline:1px solid #00cc00;
+height:500px;
+margin:0 220px;
+}
